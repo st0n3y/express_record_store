@@ -1,0 +1,14 @@
+module.exports = [
+  { "artist": "DJ Shadow",
+    "title": "Endtroducing...",
+    "price": 7.99
+  },
+  { "artist": "Evisbeats",
+    "title": "Amida",
+    "price": 10.99
+  },
+  { "artist": "The Beta Band",
+    "title": "The Three EPs",
+    "price": 6.99
+  },
+]
